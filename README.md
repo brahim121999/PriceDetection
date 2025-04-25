@@ -1,7 +1,7 @@
 # Faster R-CNN with ResNet-50 FPN - Object Detection Notebook
 
 ## Overview
-This Jupyter notebook implements a Faster R-CNN object detection model using a ResNet-50 backbone with Feature Pyramid Network (FPN). The project focuses on training and evaluating the model for a specific object detection task, likely involving receipt processing based on the dataset paths shown in the code.
+This Jupyter notebook implements a Faster R-CNN object detection model using a ResNet-50 backbone with Feature Pyramid Network (FPN). The project focuses on training and evaluating the model for detecting prices on receipts by drawing rectangles around the price values.
 
 ## Key Features
 - Implementation of Faster R-CNN with ResNet-50 FPN architecture
