@@ -12,7 +12,7 @@ This Jupyter notebook implements a Faster R-CNN object detection model using a R
 - Google Drive integration for data storage
 
 ## Requirements
-- Python 3.x
+- Python
 - PyTorch
 - Torchvision
 - Google Colab (for original implementation)
